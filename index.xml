@@ -6,9 +6,23 @@
     <description>Recent content on mind candy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2014 16:55:08 -0700</lastBuildDate>
     
 	<atom:link href="https://misterte.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nerdy Secret Santa</title>
+      <link>https://misterte.github.io/posts/nerdy-secret-santa/</link>
+      <pubDate>Mon, 22 Dec 2014 16:55:08 -0700</pubDate>
+      
+      <guid>https://misterte.github.io/posts/nerdy-secret-santa/</guid>
+      <description>&lt;p&gt;Just today I had to organize my family&amp;rsquo;s secret santa. Seemed pretty simple, but after googling for a while I just couldn&amp;rsquo;t find any straight forward way of 1) assigning secret santas and 2) sending the damn emails. Everything looked so spaceshippy.&lt;/p&gt;
+
+&lt;p&gt;So I built my own in under 5 minutes. Merry xmas!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
