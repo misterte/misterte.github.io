@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>archive on mind candy</title>
+    <title>posts on mind candy</title>
     <link>https://misterte.github.io/posts/</link>
-    <description>Recent content in archive on mind candy</description>
+    <description>Recent content in posts on mind candy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Dec 2014 16:55:08 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2014 19:10:34 -0700</lastBuildDate>
     
 	<atom:link href="https://misterte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,33 +14,33 @@
     <item>
       <title>Nerdy Secret Santa</title>
       <link>https://misterte.github.io/posts/nerdy-secret-santa/</link>
-      <pubDate>Mon, 22 Dec 2014 16:55:08 -0700</pubDate>
+      <pubDate>Mon, 22 Dec 2014 19:10:34 -0700</pubDate>
       
       <guid>https://misterte.github.io/posts/nerdy-secret-santa/</guid>
-      <description>&lt;p&gt;Just today I had to organize my family&amp;rsquo;s secret santa. Seemed pretty simple, but after googling for a while I just couldn&amp;rsquo;t find any straight forward way of 1) assigning secret santas and 2) sending the damn emails. Everything looked so spaceshippy.&lt;/p&gt;
+      <description>&lt;p&gt;Just today I had to organize my family’s secret santa. Seemed pretty simple, but after googling for a while I just couldn’t find any straight forward way of 1) assigning secret santas and 2) sending the damn emails. Everything looked so spaceshippy.&lt;/p&gt;
 
-&lt;p&gt;So I built my own in under 5 minutes. Merry xmas!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;So I built my own in under 5 minutes. Merry xmas!
+&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>El Gobierno y la Regla del 70</title>
       <link>https://misterte.github.io/posts/el-gobierno-y-la-regla-del-70/</link>
-      <pubDate>Wed, 05 Nov 2014 16:55:24 -0700</pubDate>
+      <pubDate>Wed, 05 Nov 2014 19:18:16 -0700</pubDate>
       
       <guid>https://misterte.github.io/posts/el-gobierno-y-la-regla-del-70/</guid>
-      <description>No, no tiene nada que ver con el gobierno militar, ni la UP, etc. Y aunque eso es cosa del pasado, es algo que constantemente se nos recuerda como población—tanto de un lado como del otro. La pregunta clave es entonces, ¿importa? En mi opinión, por lo menos respecto a políticas de gobierno, nada. Lo que sí importa y debiese ser preocupación de todos los chilenos es la regla del 70.</description>
+      <description>&lt;p&gt;No, no tiene nada que ver con el gobierno militar, ni la UP, etc. Y aunque eso es cosa del pasado, es algo que constantemente se nos recuerda como población—tanto de un lado como del otro. La pregunta clave es entonces, ¿importa? En mi opinión, por lo menos respecto a políticas de gobierno, nada. Lo que sí importa y debiese ser preocupación de todos los chilenos es la regla del 70.
+&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>De tín marín de do PSU</title>
       <link>https://misterte.github.io/posts/de-tin-marin-de-do-psu/</link>
-      <pubDate>Mon, 16 Jun 2014 16:55:15 -0700</pubDate>
+      <pubDate>Mon, 16 Jun 2014 23:01:13 -0700</pubDate>
       
       <guid>https://misterte.github.io/posts/de-tin-marin-de-do-psu/</guid>
-      <description>El otro día leí una noticia en el mercurio sobre el el cambio en el cálculo del puntaje PSU. Básicamente, ahora las malas no restan puntaje. ¿Bueno? ¿Malo? Bueno para algunos. Para otros no tanto.
-  El principal efecto de este cambio es estadístico y no psicológico, como dice el artículo. La razón es simple: ahora tengo un 20% de chance de obtener un beneficio al tirar algo al achunte, sin costo alguno.</description>
+      <description>&lt;p&gt;El otro día leí una noticia en el mercurio sobre &lt;a href=&#34;http://www.emol.com/noticias/nacional/2014/06/12/664925/psu-este-ano-se-elimina-descuento-por-preguntas-malas-rectores-preven-aumento-de-puntajes-nacionales.html&#34;&gt;el cambio en el cálculo del puntaje PSU&lt;/a&gt;. Básicamente, ahora las malas no restan puntaje. ¿Bueno? ¿Malo? Bueno para algunos. Para otros no tanto.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
